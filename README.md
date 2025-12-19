@@ -147,7 +147,7 @@
 </p>
 
 <p align="center">
-  <img src="https://emoji.slack-edge.com/T02K1HUQW/heart/512.png" width="50">
+  <img src="https://raw.githubusercontent.com/nexivionlabs/assets/main/red-heart.svg" width="55">
 </p>
 
 
