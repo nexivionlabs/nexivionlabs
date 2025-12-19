@@ -108,3 +108,26 @@
 </p>
 
 ---
+---
+
+## 🕊️ Peace • Focus • Barakah
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C4FF&center=true&vCenter=true&lines=Bismillah+We+Begin;With+Patience+Comes+Success;Code+With+Purpose;Create+With+Heart+🦋">
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/0fFj1Cdm42IAAAAC/birds-flying-sunset.gif" width="260">
+</p>
+
+---
+
+### 🕊️ A Gentle Reminder
+<p align="center">
+  🌿 Stay humble  
+  🌿 Stay consistent  
+  🌿 Trust the process  
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=120&section=footer&text=Alhamdulillah%20for%20the%20Journey%20🦋&fontSize=26&fontColor=ffffff"/>
+</p>
