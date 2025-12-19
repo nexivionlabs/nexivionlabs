@@ -145,7 +145,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=120&section=footer&text=Alhamdulillah%20for%20the%20Journey%20🦋&fontSize=26&fontColor=ffffff"/>
 </p>
-
 <p align="center">
   <img src="https://media.tenor.com/1N9NQvOB0n4AAAAi/red-heart.gif" width="60">
 </p>
+
