@@ -128,6 +128,20 @@
   🌿 Trust the process  
 </p>
 
+---
+
+<p align="center">
+  <marquee behavior="alternate" direction="left" scrollamount="4" width="80%">
+    <img src="https://media.tenor.com/p0G_bmA2vSYAAAAi/butterfly-fly.gif" width="90">
+    <img src="https://media.tenor.com/p0G_bmA2vSYAAAAi/butterfly-fly.gif" width="70">
+    <img src="https://media.tenor.com/p0G_bmA2vSYAAAAi/butterfly-fly.gif" width="100">
+  </marquee>
+</p>
+
+<h3 align="center">🦋 Flutter gibi hafif • Huzur gibi sakin • Yarın gibi umut dolu 🦋</h3>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=120&section=footer&text=Alhamdulillah%20for%20the%20Journey%20🦋&fontSize=26&fontColor=ffffff"/>
 </p>
