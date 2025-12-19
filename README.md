@@ -108,14 +108,3 @@
 </p>
 
 ---
-
-## 🦋 Flutter Spirit
-<p align="center">
-<img src="https://media.giphy.com/media/OF0yOAufcWLfi/giphy.gif" width="250">
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=120&section=footer&text=Nexivion%20Labs%20🦋&fontSize=28&fontColor=ffffff"/>
-</p>
