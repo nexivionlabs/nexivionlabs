@@ -81,3 +81,41 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=120&section=footer&text=Nexivion%20Labs%20🦋&fontSize=28&fontColor=ffffff"/>
 </p>
 
+---
+
+## 🦋 Featured Projects
+<p align="center">
+<a href="https://github.com/nexivionlabs/nexivion-bio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nexivionlabs&repo=nexivion-bio&theme=tokyonight" />
+</a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://github.com/nexivionlabs">
+<img src="https://img.shields.io/badge/GitHub-00C4FF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-FF66B2?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Coming_Soon-ffaa00?style=for-the-badge">
+</a>
+</p>
+
+---
+
+## 🦋 Flutter Spirit
+<p align="center">
+<img src="https://media.giphy.com/media/OF0yOAufcWLfi/giphy.gif" width="250">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=120&section=footer&text=Nexivion%20Labs%20🦋&fontSize=28&fontColor=ffffff"/>
+</p>
