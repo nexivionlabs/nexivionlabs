@@ -146,8 +146,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=120&section=footer&text=Alhamdulillah%20for%20the%20Journey%20🦋&fontSize=26&fontColor=ffffff"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nexivionlabs/assets/main/red-heart.svg" width="55">
-</p>
 
 
