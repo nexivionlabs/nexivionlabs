@@ -5,6 +5,10 @@ Full Stack & AI-Oriented Developer
 
 ## 👨‍💻 About
 
+<img src="assets/fatih.jpg" width="180" />
+
+Fatih Özgel
+
 I’m a **Full Stack & AI-oriented Developer** focused on designing systems, not just endpoints.
 
 My work combines:
