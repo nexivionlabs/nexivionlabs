@@ -1,5 +1,10 @@
 🚀 Nexivion Labs
-Full Stack & AI-Oriented Developer
+
+## 🚀 Vision
+
+Nexivion is an AI-first platform and developer ecosystem focused on building intelligent digital systems and tools for developers.
+I aim to contribute to open-source communities and build scalable AI-driven products.
+
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI-Oriented+Backend+Architect;Flutter+%7C+FastAPI+%7C+AI+Systems;Building+Systems%2C+Not+Just+Apps"> </p>
 
@@ -8,7 +13,7 @@ Full Stack & AI-Oriented Developer
 <img src="assets/fatih.jpg" width="180" />
 
 Fatih Özgel
-
+Full Stack & AI-Oriented Developer
 I’m a **Full Stack & AI-oriented Developer** focused on designing systems, not just endpoints.
 
 My work combines:
@@ -56,10 +61,18 @@ Product-Oriented Engineering
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
+## 🌍 Community & Ecosystem
+
+- Contributing to Flutter and AI developer communities
+- Building Nexivion as an open developer ecosystem
+- Interested in organizing meetups, open-source initiatives, and developer tools
+
 ## 🚀 Featured Project
 
 🔹 **Nexivion Backend**  
-AI-first backend architecture designed to understand user intent and produce intelligent decisions.
+AI-first backend architecture designed to understand user intent and produce intelligent decisions. 
+Nexivion Backend is an AI-first backend platform designed to understand user intent and drive intelligent system decisions.
+
 
 👉 https://github.com/nexivionlabs/nexivion-backend
 
@@ -79,6 +92,14 @@ AI-first backend architecture designed to understand user intent and produce int
 </p>
 
 ---
+
+
+## 🗺️ Nexivion Roadmap
+
+- AI Decision Engine v1
+- Developer SDK
+- Open-source Flutter integrations
+- Community tools
 
 
 ## 🧩 Architecture (AI-First Backend)
