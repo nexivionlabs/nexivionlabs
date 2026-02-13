@@ -73,9 +73,6 @@ Product-Oriented Engineering
 AI-first backend architecture designed to understand user intent and produce intelligent decisions. 
 Nexivion Backend is an AI-first backend platform designed to understand user intent and drive intelligent system decisions.
 
-
-👉 https://github.com/nexivionlabs/nexivion-backend
-
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nexivionlabs&show_icons=true&theme=tokyonight" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexivionlabs&theme=tokyonight" height="160"/> </p>
 
