@@ -20,7 +20,7 @@ Built for:
 * AI-native startups
 * Future creative platforms
 
-The goal is to build backend systems that can **think, generate, optimize and Autonomous deliver** content with minimal human intervention.
+The goal is to build backend systems that can **think, generate, optimize and deliver** content with minimal human intervention.
 
 > Long-term vision: become the infrastructure layer behind next-generation AI creative tools.
 
@@ -36,9 +36,21 @@ I aim to contribute to open-source communities and build scalable AI-driven prod
 
 # 👨‍💻 About
 
-<p align="center">
-  <img src="assets/fatih.jpg" width="180" />
-</p>
+<table>
+<tr>
+<td width="220">
+
+<img src="assets/fatih.jpg" width="180"
+style="
+border-radius:50%;
+box-shadow:0 0 25px rgba(0,196,255,0.6);
+border:3px solid rgba(0,196,255,0.9);
+padding:3px;
+background:linear-gradient(45deg,#00c4ff,#7b61ff);
+"/>
+
+</td>
+<td>
 
 ### Fatih Özgel
 
@@ -49,7 +61,7 @@ I build complete software systems — not just parts of them.
 From backend architecture to AI pipelines, frontend, mobile, and infrastructure,
 I design and develop **end-to-end intelligent systems** that can scale and operate reliably.
 
-My engineering approach:
+### Engineering approach
 
 * Build systems, not isolated features
 * Design scalable architectures
@@ -58,6 +70,10 @@ My engineering approach:
 * Think product-first, system-first
 
 I work across the entire stack and treat software as a complete ecosystem rather than separated layers.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -178,7 +194,7 @@ This enables:
 
 ---
 
-# 🏗️ System Architecture
+# 🏗️ Core System Architecture
 
 ```mermaid
 erDiagram
@@ -190,6 +206,9 @@ erDiagram
     agencies ||--o{ subscriptions : owns
     subscriptions ||--o{ transactions : billing
 ```
+
+This is the core architecture behind Nexivion AI.
+Designed as a scalable multi-tenant AI production system.
 
 ---
 
@@ -232,7 +251,6 @@ sequenceDiagram
 # 📊 GitHub Stats
 
 <p align="center">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexivionlabs&theme=tokyonight" height="165"/>
 </p>
 
@@ -255,7 +273,6 @@ sequenceDiagram
 <a href="https://github.com/nexivionlabs" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
 
 <a href="https://x.com/fatihozgell" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter"/>
