@@ -265,7 +265,7 @@ sequenceDiagram
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:fatih@nexivionlabs.com">
+<a href="mailto:fatih@nexivionlabs.io">
   <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail"/>
 </a>
 
