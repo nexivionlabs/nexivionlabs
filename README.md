@@ -1,7 +1,7 @@
 # 🚀 Nexivion Labs
 
 <p align="center">
-  <img src="assets/nexivion-banner.webp" alt="Nexivion AI OS" width="100%"/>
+  <img src="assets/nexivion-banner.svg" alt="Nexivion AI OS" width="100%"/>
 </p>
 
 <p align="center">
