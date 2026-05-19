@@ -240,7 +240,7 @@ I design **end-to-end intelligent systems** that scale and operate autonomously.
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **Nexivion AI OS** | Enterprise AI Operating System — 60+ agents, multi-model routing, MCP Gateway | 🔵 Pre-coding · Spec complete |
+| **Nexivion AI OS** | Enterprise AI Operating System — 60+ agents, multi-model routing, MCP Gateway | <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=800&pause=300&color=22C55E&center=true&vCenter=true&width=240&height=25&lines=%E2%97%8F+IN+ACTIVE+DEVELOPMENT" alt="In Active Development — live"/> |
 | **Nexivion CLI** | Developer CLI for agent deployment and workflow automation | 🔵 Planned · F1 |
 | **Nexivion Marketplace** | Agent & tool marketplace for the ecosystem | 🔵 Planned · F6 |
 
