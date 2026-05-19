@@ -270,19 +270,6 @@ If you're interested in:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nexivionlabs&theme=tokyonight" height="165"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexivionlabs&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-
----
-
 ## 🌐 Connect
 
 <p align="center">
