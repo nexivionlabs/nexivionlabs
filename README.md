@@ -1,17 +1,27 @@
 # Nexivion Labs
 
 <p align="center">
-  <img src="assets/nexivion-kapak.jpg" alt="Nexivion Labs" width="100%"/>
+  <img src="assets/nexivion-banner.svg" alt="Nexivion Labs" width="100%"/>
 </p>
 
 <p align="center">
   <b>Tüm yapay zekâ araçları tek orkestrasyon çatısı altında.</b><br/>
-  İnsan ve yapay zekânın birlikte çalıştığı yeni nesil yazılım sistemleri geliştiriyoruz.
+  <i>Every AI tool under one orchestration roof.</i>
+</p>
+
+<p align="center">
+  <a href="#tr"><b>Türkçe</b></a> &nbsp;·&nbsp; <a href="#en"><b>English</b></a>
 </p>
 
 ---
 
-## Sarmal: ajan fabrikası
+<a id="tr"></a>
+
+## Türkçe
+
+İnsan ve yapay zekânın birlikte çalıştığı yeni nesil yazılım sistemleri geliştiriyoruz.
+
+### Sarmal: ajan fabrikası
 
 Sarmal, yapay zekâ ajanlarını tek bir plan etrafında çalıştıran bir orkestrasyon sistemidir. Bir işi plandan başlatır, işi doğru uzman ajana verir, üretilen işi bağımsız bir denetçiye ölçtürür ve insan onayı olmadan hiçbir şeyi yayına almaz.
 
@@ -30,7 +40,7 @@ Sarmal bugün açık kaynaklı bir planlama dili, bir motor ve bir VS Code eklen
   </a>
 </p>
 
-### Neyi çözüyoruz?
+#### Neyi çözüyoruz?
 
 Yapay zekâya iş yaptırırken asıl sorun modelin zekâsı değil, niyetin kaybolmasıdır. Plan bir yerde yazılıdır, kod başka bir yere gider ve aradaki farkı kimse görmez. Sarmal projenin niyetini makinenin okuyabildiği bir dille yazdırır ve bir motor sürekli şunu sorar: planın söylediği ile diskteki gerçek hâlâ aynı mı?
 
@@ -46,9 +56,9 @@ flowchart LR
 
 ---
 
-## Hakkımda
+### Hakkımda
 
-### Fatih Özgel
+#### Fatih Özgel
 **Sistem mühendisi, Nexivion Labs kurucusu**
 
 Tek tek özellikler değil, uçtan uca çalışan yazılım sistemleri kuruyorum. Arka uç mimarisinden yapay zekâ hatlarına, arayüzden altyapıya kadar bütün katmanları birlikte tasarlıyorum.
@@ -57,7 +67,57 @@ Tek tek özellikler değil, uçtan uca çalışan yazılım sistemleri kuruyorum
 
 ---
 
-## Teknolojiler
+<a id="en"></a>
+
+## English
+
+We build next-generation software systems where humans and AI work together.
+
+### Sarmal: the agent factory
+
+Sarmal is an orchestration system that runs AI agents around a single plan. It starts every job from the plan, hands the work to the right specialist agent, has an independent reviewer measure the result, and publishes nothing without human approval.
+
+Sarmal's crew includes specialist software agents that build web, Android, iOS and desktop applications, autonomous systems, and business automations such as Meta and Google Ads management. Our goal is to help people get the most out of AI tools and set up their automations from a single place.
+
+Today Sarmal is an open-source planning language, an engine and a VS Code extension. Its desktop, web and mobile apps are being built in the open and recorded on our YouTube channel.
+
+**Open-source repository:** [github.com/nexivion-labs/sarmal](https://github.com/nexivion-labs/sarmal)
+
+<p align="center">
+  <a href="https://github.com/nexivion-labs/sarmal">
+    <img src="https://img.shields.io/badge/Sarmal-View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@nexivionlabs">
+    <img src="https://img.shields.io/badge/YouTube-Watch%20the%20build-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+#### What problem do we solve?
+
+When you put AI to work, the real problem is not the model's intelligence but the loss of intent. The plan lives in one place, the code goes somewhere else, and nobody sees the gap between them. Sarmal writes the project's intent in a language machines can read, and an engine keeps asking one question: does what the plan says still match what is on disk?
+
+```mermaid
+flowchart LR
+    Human[Human: intent and approval] --> Plan[Sarmal plan]
+    Plan --> Orchestration[Orchestration]
+    Orchestration --> Agents[Specialist agents]
+    Agents --> Reviewer[Independent reviewer]
+    Reviewer --> Approval[Human approval]
+    Approval --> Delivery[Delivery]
+```
+
+### About me
+
+#### Fatih Özgel
+**Systems engineer, founder of Nexivion Labs**
+
+I build complete software systems that work end to end, not isolated features. I design every layer together, from backend architecture and AI pipelines to the interface and the infrastructure.
+
+My working principles: system first, features second; architecture and plan first, code second; AI is the core of the system, not a plugin; governance and observability come from day one.
+
+---
+
+## Teknolojiler · Tech stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -78,9 +138,10 @@ Tek tek özellikler değil, uçtan uca çalışan yazılım sistemleri kuruyorum
 
 ---
 
-## Bize ulaşın
+## Bize ulaşın · Get in touch
 
-Yazılım ya da otomasyon kurmak istiyorsanız bize yazın.
+Yazılım ya da otomasyon kurmak istiyorsanız bize yazın.<br/>
+<i>If you want to build software or automation, write to us.</i>
 
 <p align="center">
 <a href="https://nexivionlabs.io"><img src="https://img.shields.io/badge/Web-nexivionlabs.io-8B5CF6?style=for-the-badge"/></a>
@@ -98,5 +159,12 @@ Yazılım ya da otomasyon kurmak istiyorsanız bize yazın.
 ---
 
 > Yazılımın geleceği satır satır yazılmayacak. Akıllı ajanlarla orkestre edilecek, ilkelerle yönetilecek ve insan onayıyla teslim edilecek.
+>
+> *The future of software will not be written line by line. It will be orchestrated by intelligent agents, governed by principles and delivered with human approval.*
 
-**Nexivion Labs. İnsan ve yapay zekânın birlikte ürettiği gelecek.**
+**Nexivion Labs. İnsan ve yapay zekânın birlikte ürettiği gelecek.**<br/>
+*The future built by humans and AI together.*
+
+<p align="center">
+  <img src="assets/nexivion-kapak.jpg" alt="Nexivion Labs" width="100%"/>
+</p>
